@@ -20,4 +20,4 @@ In addition, it produces three pie charts to show the following:
 % of Total Drivers by City Type
 
 ## Dependencies 
-pip insall the seaborn library
+pip install the seaborn library
