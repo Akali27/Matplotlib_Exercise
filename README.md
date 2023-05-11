@@ -1,4 +1,4 @@
-## Matplotlib Exercise: Pyber Ride Analysis
+## Matplotlib Exercise: Ride Analysis
 
 The script matplotlib_exercise.ipynb analyzes ride-sharing data for a fictional company called Pyber. The script reads data from two CSV files, one containing ride data and the other containing city data, and generates visualizations that provide insights into the company's performance in different types of cities (urban, suburban, and rural).
 
